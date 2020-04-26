@@ -1,0 +1,205 @@
+Canada|Canada|12,360|2,177|178|
+United States|United States|265,001|11,983|6,766|
+Italy|Italy|119,827|19,758|14,681|
+Spain|Spain|117,710|30,513|11,009|
+Germany|Germany|89,126|13,597|1,198|
+China|China|81,620|76,571|3,322|
+France|France|58,415|10,935|5,376|
+Iran|Iran|53,183|17,935|3,294|
+United Kingdom|United Kingdom|38,168|205|3,605|
+Turkey|Turkey|20,921|484|425|
+Switzerland|Switzerland|19,702|5,657|604|
+Belgium|Belgium|16,770|2,872|1,143|
+Netherlands|Netherlands|15,723|-|1,487|
+Austria|Austria|11,464|2,022|168|
+South Korea|South Korea|10,062|6,021|174|
+Portugal|Portugal|9,886|68|246|
+Brazil|Brazil|8,066|127|327|
+Israel|Israel|7,428|403|39|
+Sweden|Sweden|6,122|106|351|
+Australia|Australia|5,358|636|28|
+Norway|Norway|5,296|-|54|
+Ireland|Ireland|4,273|10|120|
+Russia|Russia|4,149|281|34|
+Czechia|Czechia|4,091|72|53|
+Denmark|Denmark|3,757|1,093|1|
+Chile|Chile|3,737|427|22|
+Ecuador|Ecuador|3,368|65|145|
+Malaysia|Malaysia|3,333|827|53|
+Poland|Poland|3,266|56|65|
+Romania|Romania|3,183|283|133|
+Philippines|Philippines|3,018|52|136|
+Japan|Japan|2,617|472|63|
+Luxembourg|Luxembourg|2,612|80|31|
+India|India|2,547|163|62|
+Pakistan|Pakistan|2,458|126|35|
+Saudi Arabia|Saudi Arabia|2,039|351|25|
+Indonesia|Indonesia|1,986|134|181|
+Thailand|Thailand|1,978|581|19|
+Greece|Greece|1,613|53|59|
+Finland|Finland|1,608|-|19|
+Mexico|Mexico|1,510|634|50|
+South Africa|South Africa|1,505|31|5|
+Dominican Republic|Dominican Republic|1,488|16|68|
+Panama|Panama|1,475|10|37|
+Peru|Peru|1,414|537|55|
+Iceland|Iceland|1,364|336|4|
+Argentina|Argentina|1,265|248|36|
+Algeria|Algeria|1,171|62|105|
+Serbia|Serbia|1,171|54|31|
+Colombia|Colombia|1,161|55|19|
+Singapore|Singapore|1,114|282|5|
+Croatia|Croatia|1,079|92|8|
+Qatar|Qatar|1,075|93|3|
+United Arab Emirates|United Arab Emirates|1,024|96|8|
+Egypt|Egypt|986|216|66|
+Estonia|Estonia|961|48|12|
+Ukraine|Ukraine|942|19|23|
+Slovenia|Slovenia|934|10|20|
+Hong Kong|Hong Kong|846|172|4|
+Iraq|Iraq|820|226|54|
+New Zealand|New Zealand|772|103|1|
+Morocco|Morocco|761|56|47|
+Armenia|Armenia|736|43|7|
+Lithuania|Lithuania|696|7|9|
+Bahrain|Bahrain|672|382|4|
+Hungary|Hungary|623|43|26|
+Moldova|Moldova|591|26|8|
+Bosnia and Herzegovina|Bosnia and Herzegovina|575|27|17|
+Lebanon|Lebanon|508|50|17|
+Tunisia|Tunisia|495|5|18|
+Latvia|Latvia|493|1|1|
+Bulgaria|Bulgaria|485|30|14|
+Kazakhstan|Kazakhstan|464|29|3|
+Slovakia|Slovakia|450|7|1|
+Azerbaijan|Azerbaijan|443|32|5|
+Andorra|Andorra|439|16|16|
+Macedonia|Macedonia|430|20|12|
+Kuwait|Kuwait|417|82|0|
+Costa Rica|Costa Rica|396|6|2|
+Cyprus|Cyprus|391|18|10|
+Uruguay|Uruguay|369|68|4|
+Belarus|Belarus|351|46|4|
+Taiwan|Taiwan|348|50|5|
+Réunion|321|40|0|
+Jordan|Jordan|310|58|5|
+Cameroon|Cameroon|306|10|8|
+Albania|Albania|304|89|16|
+Burkina Faso|Burkina Faso|302|50|16|
+Afghanistan|Afghanistan|273|10|6|
+Cuba|Cuba|267|13|6|
+Oman|Oman|252|57|1|
+San Marino|San Marino|251|26|32|
+Vietnam|Vietnam|237|85|0|
+Honduras|Honduras|222|3|15|
+Uzbekistan|Uzbekistan|221|25|2|
+Senegal|Senegal|207|66|1|
+Ghana|Ghana|205|31|5|
+Malta|Malta|202|2|0|
+Côte dIvoire|Côte dIvoire|194|9|1|
+Palestine|Palestine|193|21|1|
+Nigeria|Nigeria|190|20|2|
+Mauritius|Mauritius|186|0|7|
+Faroe Islands|Faroe Islands|179|91|0|
+Montenegro|Montenegro|160|0|2|
+Sri Lanka|Sri Lanka|159|24|4|
+Georgia|Georgia|155|28|0|
+Venezuela|Venezuela|146|43|5|
+Martinique|Martinique|138|27|3|
+Brunei|Brunei|134|65|1|
+Congo[DRC]|Congo[DRC]|134|3|13|
+Bolivia|Bolivia|132|1|9|
+Guadeloupe|Guadeloupe|130|29|7|
+Kyrgyzstan|Kyrgyzstan|130|5|1|
+Mayotte|Mayotte|128|10|2|
+Kosovo|Kosovo|125|10|1|
+Kenya|Kenya|122|4|4|
+Jersey|Jersey|118|-|2|
+Cambodia|Cambodia|114|35|0|
+Guernsey|Guernsey|114|13|2|
+Isle of Man|114|-|1|
+Trinidad and Tobago|Trinidad and Tobago|96|1|6|
+Paraguay|Paraguay|92|4|3|
+Rwanda|Rwanda|89|0|0|
+Gibraltar|Gibraltar|88|46|0|
+Northern Cyprus|77|29|2|
+Niger|Niger|74|0|5|
+Guinea|Guinea|73|0|0|
+Liechtenstein|Liechtenstein|72|0|0|
+Madagascar|Madagascar|70|0|0|
+Bangladesh|Bangladesh|61|26|6|
+Aruba|Aruba|60|1|0|
+Monaco|Monaco|55|2|1|
+French Guiana|French Guiana|51|0|0|
+Jamaica|Jamaica|47|2|3|
+Barbados|Barbados|46|0|0|
+Guatemala|Guatemala|46|12|1|
+Uganda|Uganda|45|0|0|
+Macau|Macau|42|10|0|
+El Salvador|El Salvador|41|0|2|
+Djibouti|Djibouti|40|0|0|
+Togo|Togo|40|17|3|
+Mali|Mali|39|0|3|
+Zambia|Zambia|39|1|1|
+French Polynesia|French Polynesia|37|1|0|
+Bermuda|Bermuda|35|11|0|
+Ethiopia|Ethiopia|35|3|0|
+Cayman Islands|Cayman Islands|28|-|1|
+Saint Martin|24|5|2|
+Bahamas|Bahamas|24|0|1|
+Sint Maarten|23|3|2|
+Eritrea|Eritrea|22|0|0|
+Congo[Republic]|Congo[Republic]|22|0|2|
+Myanmar [Burma]|Myanmar [Burma]|20|0|1|
+Tanzania|Tanzania|20|2|1|
+Guyana|Guyana|19|0|4|
+Maldives|Maldives|19|13|0|
+Gabon|Gabon|18|0|1|
+New Caledonia|New Caledonia|18|1|0|
+Benin|Benin|16|2|0|
+Equatorial Guinea|Equatorial Guinea|16|1|0|
+Syria|Syria|16|0|2|
+Haiti|Haiti|15|0|0|
+Mongolia|Mongolia|14|2|0|
+Namibia|Namibia|14|2|0|
+Saint Lucia|Saint Lucia|13|0|0|
+Dominica|Dominica|12|0|0|
+Curaçao|11|2|1|
+Greenland|Greenland|10|3|0|
+Grenada|Grenada|10|0|0|
+Laos|Laos|10|0|0|
+Libya|Libya|10|1|0|
+Mozambique|Mozambique|10|0|0|
+Seychelles|Seychelles|10|0|0|
+Sudan|Sudan|10|2|2|
+Suriname|Suriname|10|0|0|
+Antigua and Barbuda|Antigua and Barbuda|9|0|0|
+Eswatini|Eswatini|9|0|0|
+Guinea-Bissau|Guinea-Bissau|9|0|0|
+Zimbabwe|Zimbabwe|9|0|1|
+Angola|Angola|8|1|2|
+Central African Republic|Central African Republic|8|0|0|
+Saint Kitts and Nevis|Saint Kitts and Nevis|8|0|0|Åland Islands|8|0|0|
+Chad|Chad|7|0|0|
+Fiji|Fiji|7|0|0|
+Liberia|Liberia|7|0|0|
+Somalia|Somalia|7|1|0|
+Vatican City|Vatican City|7|-|0|
+Cape Verde|Cape Verde|6|0|1|
+Mauritania|Mauritania|6|2|1|
+Nepal|Nepal|6|1|0|
+Saint Barthélemy|6|1|0|
+Bhutan|Bhutan|5|0|0|
+Montserrat|Montserrat|5|0|0|
+Turks and Caicos Islands|5|0|0|
+Botswana|Botswana|4|0|1|
+Nicaragua|Nicaragua|4|0|1|
+Gambia|Gambia|4|0|1|
+Anguilla|Anguilla|3|0|0|
+Belize|Belize|3|0|0|
+British Virgin Islands|3|0|0|
+Burundi|Burundi|3|0|0|
+Malawi|Malawi|3|0|0|
+Sierra Leone|Sierra Leone|2|0|0|
+Papua New Guinea|Papua New Guinea|1|0|0|
+Timor-Leste|Timor-Leste|1|1|0|

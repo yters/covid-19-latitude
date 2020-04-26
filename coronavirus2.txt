@@ -1,0 +1,56 @@
+New York|83,948|6,142|1,941
+New Jersey|25,590|-|537
+Michigan|12,744|-|479
+California|10,701|60|237
+Massachusetts|10,402|1,655|192
+Louisiana|10,297|-|370
+Florida|9,239|-|163
+Illinois|7,695|-|157
+Pennsylvania|7,016|-|90
+Washington|6,585|-|262
+Georgia|5,831|-|184
+Texas|5,330|-|90
+Connecticut|4,915|-|132
+Colorado|3,728|-|97
+Indiana|3,437|-|102
+Tennessee|3,067|248|37
+Ohio|2,547|-|65
+Missouri|2,113|-|19
+Maryland|1,985|69|31
+Wisconsin|1,912|-|37
+Arizona|1,769|-|41
+Virginia|1,706|-|41
+North Carolina|1,584|-|10
+South Carolina|1,554|-|31
+Alabama|1,432|-|21
+Mississippi|1,358|-|29
+Nevada|1,279|-|32
+Utah|1,246|-|7
+Idaho|1,013|-|10
+Kentucky|920|-|34
+Oklahoma|879|-|34
+Oregon|826|-|21
+Minnesota|789|410|22
+Washington, D.C.|761|206|15
+Arkansas|704|60|12
+Iowa|699|58|11
+Rhode Island|657|-|12
+Kansas|620|-|17
+New Hampshire|415|-|4
+New Mexico|403|-|7
+Vermont|389|-|17
+Delaware|368|49|11
+Maine|344|80|7
+Hawaii|285|72|2
+Nebraska|255|-|6
+Puerto Rico|239|-|8
+Montana|217|-|5
+West Virginia|217|-|2
+South Dakota|187|69|2
+North Dakota|173|55|3
+Wyoming|153|37|0
+Alaska|143|9|3
+Guam|77|9|3
+U.S. Virgin Islands|37|29|0
+Northern Mariana Islands|8|-|1
+American Samoa|0|0|0
